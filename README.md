@@ -74,7 +74,7 @@ Please note that the code comments are currently in **Portuguese**, as this proj
 
 ## 📄 Author
 
-Developed by **Vitor Hugo da Costa Rodovalho**.
+Developed by **Vitor Hugo Rodovalho**.
 
 ---
 
